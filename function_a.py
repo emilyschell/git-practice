@@ -14,6 +14,7 @@ def most_common_value(number_list):
             max_frequency = frequency_index[num]
             most_common_value = num
 
+    print("omg a merge conflict!!!")
     return most_common_value
 
 
