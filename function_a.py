@@ -13,6 +13,7 @@ def most_common_value(number_list):
         if max_frequency < frequency_index[num]:
             max_frequency = frequency_index[num]
             most_common_value = num
+    print("hello, sea turtle!")
 
     print("omg a merge conflict!!!")
     return most_common_value
