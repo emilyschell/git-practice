@@ -14,7 +14,7 @@ def most_common_value(number_list):
             max_frequency = frequency_index[num]
             most_common_value = num
     print("hello, sea turtle!")
-
+    print("Happy Friday!")
     return most_common_value
 
 
